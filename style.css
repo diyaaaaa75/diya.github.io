@@ -150,3 +150,24 @@ input[type="submit"]:hover {
     max-width: 50%;
   }
 }
+.nav-links {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.nav-links .row {
+  margin: 10px 0;
+}
+
+.nav-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #8758ff;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav-links a:hover {
+  color: #ff4f93;
+}
+
